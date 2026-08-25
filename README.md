@@ -1,6 +1,6 @@
 # Presentations
 
-Apresentações e materiais de divulgação do grupo DAL.
+Apresentações e materiais de divulgação do [DAL - Data Analytics Lab](https://eic.cefet-rj.br/~dal/), grupo do CEFET/RJ dedicado à pesquisa, ao desenvolvimento e à formação em ciência de dados, análise de dados e sistemas de apoio à decisão.
 
 ## Apresentações
 
